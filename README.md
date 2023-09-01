@@ -12,6 +12,8 @@
 
 # Projeto - Aprendendo a escrever um README
 
+![image info](img/tela.png)
+
 ## Descrição 
 
 ## Introdução

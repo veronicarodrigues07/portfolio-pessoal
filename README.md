@@ -1,4 +1,4 @@
-# Projeto - Aprendendo a escrever um READMEK
+# Projeto - Aprendendo a escrever um README
 
 ## Descrição 
 

@@ -1,1 +1,15 @@
-# portfolio-pessoal-2A
+# Projeto - Aprendendo a escrever um READMEK
+
+## Descrição 
+
+## Introdução
+
+## Funcionalidades
+
+### Tecnologias utilizadas
+
+## Fontes consultadas 
+
+## Autores
+
+

@@ -22,10 +22,10 @@ O Projeto cover é um dos melhores sites desenvolvidos atualmente, tem o intuito
 
 ## Funcionalidades
 Ao acessar o site o usuário ira para a página inicial, lá ira aparecer várias funções tais como:  
-   
-* Novidade: O usuário ira encontra as ideias de capas mais recentes     
-* Contato: Em caso de problema com o site o usuário sera direcionado a entrar em contato com o desenvolvedor     
-* Saiba mais: O Saiba mais serve para que se o usuário ter duvidas ou curiosidade de como
+
+* - ´ Novidade´: O usuário ira encontra as ideias de capas mais recentes     
+* - ´ Contato´: Em caso de problema com o site o usuário sera direcionado a entrar em contato com o desenvolvedor     
+* - ´ Saiba mais´: O Saiba mais serve para que se o usuário ter duvidas ou curiosidade de como
 funciona o site tenha acesso a mais informações.  
 
 ### Tecnologias utilizadas
@@ -39,9 +39,11 @@ funciona o site tenha acesso a mais informações.
 ## Fontes consultadas 
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+* [lohhans](https://gist.github.com/lohhans)
 
 
 ## Autores
-* [mdo](https://twitter.com/mdo)
+* [mdo](https:/(/twitter.com/mdo)
+* [Veronica](https://github.com/veronicarodrigues07/portfolio-pessoal)
 
 

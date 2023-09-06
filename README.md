@@ -37,6 +37,6 @@ Saiba mais: O Saiba mais serve para que se o usuário ter duvidas ou curiosidade
 
 
 ## Autores
-@mdo
+* [mdo](https://twitter.com/mdo)
 
 

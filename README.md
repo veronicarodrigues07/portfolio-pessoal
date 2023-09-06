@@ -28,8 +28,8 @@ Saiba mais: O Saiba mais serve para que se o usuário ter duvidas ou curiosidade
 
 ### Tecnologias utilizadas
 
-* Bootstrap 
-* Vscode
+* bootstrap 
+* vscode
 * html
 * github
 * css

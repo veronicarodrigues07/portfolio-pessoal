@@ -29,7 +29,9 @@ Saiba mais: O Saiba mais serve para que se o usuário ter duvidas ou curiosidade
 ### Tecnologias utilizadas
 Bootstrap & Vscode
 ## Fontes consultadas 
-file:///C:/Users/veronica.rodrigues/OneDrive%20-%20Grupo%20Marista/2%C2%B0ANO%20A/programa%C3%A7%C3%A3o%20web%201/portfolio-pessoal-2a/index.html
+
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+
 
 ## Autores
 @mdo

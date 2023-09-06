@@ -27,7 +27,10 @@ Contato: Em caso de problema com o site o usuário sera direcionado a entrar em 
 Saiba mais: O Saiba mais serve para que se o usuário ter duvidas ou curiosidade de como funciona o site tenha acesso a mais informações.  
 
 ### Tecnologias utilizadas
-Bootstrap & Vscode
+
+* Bootstrap 
+* Vscode
+
 ## Fontes consultadas 
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível

@@ -30,6 +30,9 @@ Saiba mais: O Saiba mais serve para que se o usuário ter duvidas ou curiosidade
 
 * Bootstrap 
 * Vscode
+* html
+* github
+* css
 
 ## Fontes consultadas 
 

@@ -28,11 +28,11 @@ Saiba mais: O Saiba mais serve para que se o usuário ter duvidas ou curiosidade
 
 ### Tecnologias utilizadas
 
-* bootstrap 
-* vscode
-* html
-* github
-* css
+* Bootstrap 
+* Vscode
+* Html
+* Github
+* Css
 
 ## Fontes consultadas 
 

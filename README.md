@@ -8,7 +8,7 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 # projeto - aprendendo a escrever um README
-![image info](img/capa.png)
+![image info](img/tela.png)
 ## Descrição
 O Projeto cover é um dos melhores sites desenvolvidos atualmente, tem o intuito de ajudar e mostrar ao úsuario variacões capas para que seja usado em seus trabalhos.
 
